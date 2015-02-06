@@ -1,2 +1,1 @@
-# monsterwater.github.com
-水怪
+水怪Blog
